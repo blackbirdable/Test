@@ -1,0 +1,336 @@
+2025-07-13 20:22:53,786 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-13 20:24:15,161 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-13 20:26:52,689 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-13 20:27:53,171 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-13 20:29:18,283 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-13 20:30:27,234 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:05:48,488 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:06:49,109 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:08:14,253 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:10:07,622 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:11:08,237 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:12:08,804 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:13:09,483 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:14:10,176 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:15:10,898 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:16:11,476 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:17:12,052 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:18:12,660 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:19:13,277 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:20:13,921 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:21:14,663 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:22:15,262 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:23:15,799 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:24:16,394 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:25:17,121 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:26:17,723 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:27:18,331 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:28:18,923 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:29:19,531 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:30:20,190 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:31:20,876 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:32:21,541 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:33:22,182 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:34:22,838 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:35:23,599 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:36:24,180 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:37:24,860 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:38:25,459 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:39:26,071 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:40:26,656 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:41:27,284 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:42:27,857 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:43:28,477 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:44:29,035 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:45:29,645 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:46:30,217 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:47:30,796 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
+2025-07-14 08:48:31,380 - ERROR - An error occurred: name 'output_pnl_log_path' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Sonixen\Tools\Ctrader OpenAPI\EMS STR_SQL_DB\BTD_Terminal.py", line 436, in main
+    save_pnl_log(positions_df, open_orders_df, output_pnl_log_path)
+                                               ^^^^^^^^^^^^^^^^^^^
+NameError: name 'output_pnl_log_path' is not defined
+
